@@ -1,2 +1,8 @@
-# SCM_1
-For demo purpose 
+<html>
+  <head> 
+    <title>Software Cofiguration Management </title>
+  </head>
+  <body>
+  Welcome 
+  </body>
+</html>
